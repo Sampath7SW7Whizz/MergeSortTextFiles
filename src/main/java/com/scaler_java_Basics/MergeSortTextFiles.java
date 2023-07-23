@@ -25,7 +25,7 @@ public class MergeSortTextFiles {
     }
 
     private static List<Integer> readNumbersFromFile(String fileName) {
-        // Step 1: Create a new ArrayList to store the numbers read from the file
+        
         List<Integer> numbersList = new ArrayList<>();
 
         try (
